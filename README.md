@@ -86,7 +86,8 @@ Congestion in high-traffic zones (-3 penalty for crowding).
 
 ### Graphical Representation
 
-![WhatsApp Image 2025-03-14 at 14 29 49_27157bd2](https://github.com/user-attachments/assets/6fc502f4-6057-47b1-bc6a-515a5ca66fac)
+![WhatsApp Image 2025-03-18 at 23 24 52_bb905387](https://github.com/user-attachments/assets/3f642a3e-a606-40a7-b7c5-2c46b1f66210)
+
 
 
 ## PYTHON REPRESENTATION:
